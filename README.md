@@ -12,6 +12,7 @@
 #### Page for person profile. Account page, consisting of saved spots, liked spots, posts, etc. This will also consist of the itinerary.
 #### Page to plan trips. General trip planner, will save user information and recent trips if logged in. Consisting of liked spots, recommended spots, traveling location, deals, etc. Possible monitization.
 #### Page for feed. A section of recommended spots AND a section for your niche spots (following spots). 
+#### Using Next.js
 
 ## Back End:
-
+#### Using firebase
